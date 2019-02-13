@@ -86,7 +86,11 @@ p {
 }
 
 /* ---- section ---- */
-
+.game-section {
+    width: 100%;
+    height: 100vh;
+    
+}
 section.testimonials {
   // ...
 }
